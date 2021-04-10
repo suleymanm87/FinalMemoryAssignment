@@ -1,0 +1,102 @@
+/*Copyright Code written by Suleyman Mulayim*/
+
+body {
+    background: url(/images/Capture1.PNG);
+    background-size: 170%;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h6 {
+    font-size: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 10px;
+    text-align: center;
+}
+
+.gridDisplay {
+    display: grid;
+    grid-template-rows: 75px 75px 75px 75px 75px 75px;
+    grid-template-columns: 75px 75px 75px 75px 75px 75px;
+    gap: 1.5px;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-left: 530px;
+    margin-bottom: 0px;
+    width: 455px;
+    height: 455px;
+    border-radius: 5px;
+
+}
+
+.default {
+    position: absolute;
+}
+
+#header {
+    font-size: xx-large;
+  
+    text-align: center;
+}
+
+#firstbox {
+    height: 70px;
+    width: 70px;
+
+
+}
+
+button {
+    border-radius: 5px;
+}
+
+button>img {
+    height: 70px;
+    width: 70px;
+
+
+}
+
+.hideImg {
+    display: none;
+}
+
+.boxes {
+    width: 75px;
+    height: 75px;
+
+}
+
+.footer {
+    font-size: medium;
+    text-align: center;
+    font-family: ink free;
+    color: rgb(255, 253, 253);
+
+
+}
+
+.card {
+    background: #fc4;
+    border-radius: 0.5em;
+    height: 75px;
+    width: 75px;
+    border-radius: 5px;
+
+}
+
+p {
+    font-size: medium;
+    text-align: center;
+    font-style: italic;
+    color: rgb(250, 249, 249);
+}
+
